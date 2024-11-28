@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c58113a-06d2-40e7-869b-ea1a738309fe" name="Changes" comment="&quot;14/10/24 - 11:53&quot;" />
+    <list default="true" id="3c58113a-06d2-40e7-869b-ea1a738309fe" name="Changes" comment="&quot;14/10/24 - 11:53&quot;">
+      <change beforePath="$PROJECT_DIR$/sections/image-banner.liquid" beforeDir="false" afterPath="$PROJECT_DIR$/sections/image-banner.liquid" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snippets/star-rating.liquid" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
