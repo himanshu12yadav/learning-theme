@@ -1,0 +1,44 @@
+<!-- Font Awesome -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<style>
+    .stars-outer::before {
+        content: "\2606 \2606 \2606 \2606 \2606";
+        font-size: 20px;
+    }
+
+    .stars-outer {
+        display: inline-block;
+        position: relative;
+        font-size: 20px;
+        font: normal normal normal 14px/1 FontAwesome;
+    }
+
+    .stars-inner {
+        position: absolute;
+        top: 0;
+        left: 0;
+        white-space: nowrap;
+    }
+
+    .stars-inner::before {
+        content: "\2605 \2605 \2605 \2605 \2605";
+        color: #f8ce0b;
+        font-size: 20px
+    }
+</style>
+
+<!-- Javascript for updating total rating -->
+
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        console.log('rating :', {{ ratingValue }});
+        const ratings = {{ ratingValue }}
+
+        const starTotal = 5;
+        let starPercentage = (ratings / starTotal) * 100;
+        let starPercentageRounded = `${(Math.round(starPercentage / 10) * 10)}`;
+
+        document.querySelector(' .stars-inner').style.width = starPercentageRounded + '%';
+    });
+</script>

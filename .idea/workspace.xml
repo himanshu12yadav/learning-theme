@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3c58113a-06d2-40e7-869b-ea1a738309fe" name="Changes" comment="&quot;14/10/24 - 11:53&quot;" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="mySelectedFileTypes">
+      <set>
+        <option value="Angular2Html" />
+        <option value="CSS" />
+        <option value="CassandraQL" />
+        <option value="Cucumber" />
+        <option value="DTD" />
+        <option value="EJS" />
+        <option value="EditorConfig" />
+        <option value="Flow" />
+        <option value="HTML" />
+        <option value="HTTP Request" />
+        <option value="Handlebars/Mustache" />
+        <option value="HiveQL" />
+        <option value="JSHint" />
+        <option value="JSON" />
+        <option value="JSON-lines" />
+        <option value="JSON5" />
+        <option value="JSX" />
+        <option value="Jade" />
+        <option value="JavaScript" />
+        <option value="Less" />
+        <option value="Liquid Template" />
+        <option value="Markdown" />
+        <option value="PostCSS" />
+        <option value="Prisma" />
+        <option value="TypeScript" />
+        <option value="TypeScript JSX" />
+        <option value="Vue.js" />
+        <option value="XHTML" />
+        <option value="XML" />
+        <option value="YAML" />
+        <option value="tsconfig" />
+      </set>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;himanshu12yadav&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/himanshu12yadav/learning-theme.git&quot;,
+    &quot;accountId&quot;: &quot;e13d72f4-1186-40b7-906d-c644c293d196&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2ok2HqRKtf0Afkk0Yd02pJ4BTZH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.CodyAccountHistoryMigration&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.CodyAccountsIdsRefresh&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.CodyAssignOrphanedChatsToActiveAccount&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.CodyConvertUrlToCodebaseName&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.CodyHistoryLlmMigration&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.CodyMigrateChatHistory-v2&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.CodyProjectSettingsMigration&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ToggleCodyToolWindowAfterMigration&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/var/www/html/learning-theme&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;/home/himanshu/.nvm/versions/node/v22.10.0/lib/node_modules/prettier/bin&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-WS-243.21565.180" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c58113a-06d2-40e7-869b-ea1a738309fe" name="Changes" comment="" />
+      <created>1730201062860</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730201062860</updated>
+      <workItem from="1731399168894" duration="16030000" />
+      <workItem from="1731472856392" duration="285000" />
+      <workItem from="1731473561856" duration="161000" />
+      <workItem from="1731473741471" duration="90000" />
+      <workItem from="1731473850299" duration="18750000" />
+      <workItem from="1731560943884" duration="37000" />
+      <workItem from="1731560994505" duration="732000" />
+      <workItem from="1731562091726" duration="5445000" />
+      <workItem from="1732615308226" duration="218000" />
+      <workItem from="1732615540515" duration="3040000" />
+      <workItem from="1732684567776" duration="83000" />
+      <workItem from="1732684668722" duration="9935000" />
+      <workItem from="1732771943287" duration="2734000" />
+    </task>
+    <task id="LOCAL-00001" summary="&quot;12/10/24 - 14:20&quot;">
+      <option name="closed" value="true" />
+      <created>1731401428932</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731401428932</updated>
+    </task>
+    <task id="LOCAL-00002" summary="&quot;12/10/24 - 14:20&quot;">
+      <option name="closed" value="true" />
+      <created>1731402165174</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731402165174</updated>
+    </task>
+    <task id="LOCAL-00003" summary="&quot;12/10/24 - 15:18&quot;">
+      <option name="closed" value="true" />
+      <created>1731404892700</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731404892700</updated>
+    </task>
+    <task id="LOCAL-00004" summary="&quot;12/10/24 - 15:51&quot;">
+      <option name="closed" value="true" />
+      <created>1731406943228</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1731406943228</updated>
+    </task>
+    <task id="LOCAL-00005" summary="&quot;12/10/24 - 15:51&quot;">
+      <option name="closed" value="true" />
+      <created>1731407044706</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1731407044706</updated>
+    </task>
+    <task id="LOCAL-00006" summary="&quot;12/10/24 - 15:51&quot;">
+      <option name="closed" value="true" />
+      <created>1731407659406</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1731407659406</updated>
+    </task>
+    <task id="LOCAL-00007" summary="&quot;12/10/24 - 17:03&quot;">
+      <option name="closed" value="true" />
+      <created>1731411227291</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1731411227291</updated>
+    </task>
+    <task id="LOCAL-00008" summary="&quot;12/10/24 - 18:53&quot;">
+      <option name="closed" value="true" />
+      <created>1731417799534</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1731417799534</updated>
+    </task>
+    <task id="LOCAL-00009" summary="&quot;12/10/24 - 19:33&quot;">
+      <option name="closed" value="true" />
+      <created>1731420232587</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1731420232587</updated>
+    </task>
+    <task id="LOCAL-00010" summary="&quot;13/10/24 - 11:48&quot;">
+      <option name="closed" value="true" />
+      <created>1731478734609</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1731478734609</updated>
+    </task>
+    <task id="LOCAL-00011" summary="&quot;13/10/24 - 11:48&quot;">
+      <option name="closed" value="true" />
+      <created>1731479239134</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1731479239134</updated>
+    </task>
+    <task id="LOCAL-00012" summary="&quot;13/10/24 - 11:48&quot;">
+      <option name="closed" value="true" />
+      <created>1731483310235</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1731483310235</updated>
+    </task>
+    <task id="LOCAL-00013" summary="&quot;13/10/24 - 18:37&quot;">
+      <option name="closed" value="true" />
+      <created>1731503276693</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1731503276693</updated>
+    </task>
+    <task id="LOCAL-00014" summary="&quot;14/10/24 - 11:53&quot;">
+      <option name="closed" value="true" />
+      <created>1731565448194</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1731565448194</updated>
+    </task>
+    <task id="LOCAL-00015" summary="&quot;14/10/24 - 11:53&quot;">
+      <option name="closed" value="true" />
+      <created>1731565477566</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1731565477566</updated>
+    </task>
+    <task id="LOCAL-00016" summary="&quot;14/10/24 - 11:53&quot;">
+      <option name="closed" value="true" />
+      <created>1731566109916</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1731566109916</updated>
+    </task>
+    <task id="LOCAL-00017" summary="&quot;14/10/24 - 11:53&quot;">
+      <option name="closed" value="true" />
+      <created>1732787761642</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1732787761642</updated>
+    </task>
+    <task id="LOCAL-00018" summary="&quot;14/10/24 - 11:53&quot;">
+      <option name="closed" value="true" />
+      <created>1732788316358</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1732788316358</updated>
+    </task>
+    <task id="LOCAL-00019" summary="&quot;14/10/24 - 11:53&quot;">
+      <option name="closed" value="true" />
+      <created>1732789321959</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1732789321959</updated>
+    </task>
+    <task id="LOCAL-00020" summary="&quot;14/10/24 - 11:53&quot;">
+      <option name="closed" value="true" />
+      <created>1732799541969</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1732799541969</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/main" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;12/10/24 - 14:20&quot;" />
+    <MESSAGE value="&quot;12/10/24 - 15:18&quot;" />
+    <MESSAGE value="&quot;12/10/24 - 15:51&quot;" />
+    <MESSAGE value="&quot;12/10/24 - 17:03&quot;" />
+    <MESSAGE value="&quot;12/10/24 - 18:53&quot;" />
+    <MESSAGE value="&quot;12/10/24 - 19:33&quot;" />
+    <MESSAGE value="&quot;13/10/24 - 11:48&quot;" />
+    <MESSAGE value="&quot;13/10/24 - 18:37&quot;" />
+    <MESSAGE value="&quot;14/10/24 - 11:53&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;14/10/24 - 11:53&quot;" />
+  </component>
+</project>
